@@ -26,6 +26,7 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### Pages EditePages (Edite/Update)
 ![image](https://github.com/user-attachments/assets/e67d9d96-700f-48aa-b40f-84761410edfc)
 ### modal Delete
+![image](https://github.com/user-attachments/assets/30b0c03d-7f66-494a-852e-7b6c5e30f3ed)
 
 
 
