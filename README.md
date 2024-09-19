@@ -24,6 +24,8 @@ See the section about [running tests](https://facebook.github.io/create-react-ap
 ### Pages AddPages (Create/add)
 ![image](https://github.com/user-attachments/assets/4ed5a2d1-03ba-4632-8330-1d5cba2dc443)
 ### Pages EditePages (Edite/Update)
+![image](https://github.com/user-attachments/assets/e67d9d96-700f-48aa-b40f-84761410edfc)
+### modal Delete
 
 
 
